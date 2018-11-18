@@ -7,7 +7,6 @@ import java.sql.Statement;
 
 public class DatabaseConnection {
 
-
   public boolean databaseConnect() {
 
     final String DATABASE_URL = "jdbc:derby:/Users/harrisonpaxton/OneDrive - Florida Gulf Coast University/IdeaProjects/GuiDatabase/lib/MyDbTest";

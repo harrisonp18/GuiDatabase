@@ -8,7 +8,6 @@ public class Controller {
 
   DatabaseConnection buttonConnect = new DatabaseConnection();
 
-
   public Label connectionLabel = new Label();
 
   @FXML
