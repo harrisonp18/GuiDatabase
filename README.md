@@ -7,7 +7,7 @@ was successful. Future functions will be to view the database as well as add and
 I tried to make the GUI aesthetically pleasing by using simple colors and shapes. All elements in the GUI are aligned ith eachother and with the border of the pane. The design should make functionality clear as well as being graphically clear as easy to read fonts and font colors were used and all fonts were a readable size and not too small. Being made in Java, the program can run on virtually any platform as long as the the JVM is present. Output from the program is also consitent across platforms and over multiple uses. Overall the GUI was desinged simply making it easier to use, making it more efficient, direct, and predictable.
 
 ## Demonstration
-
+![Functionality Gif](docs/Database.gif)
 
 ## Documentation
 
