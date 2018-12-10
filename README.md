@@ -9,9 +9,6 @@ I tried to make the GUI aesthetically pleasing by using simple colors and shapes
 ## Demonstration
 ![Functionality Gif](docs/Database.gif)
 
-## Documentation
-
-
 ## Diagrams
 In the future when this program is fully functional, a database diagram will be added here.
 
